@@ -23,7 +23,7 @@
   
   <h2>😘 Contact me</h2>
   <a href="http://dgswhs.kr/" target="_blank"><img src="https://img.shields.io/badge/DGSW-blue?style=for-the-badge&logo=DGSW&logoColor=white"></a>
-  <a href="https://url.kr/a27oui" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  <a href="https://url.kr/a27oui" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=portfolio&logoColor=white"></a>
   <a href="https://url.kr/pdk9vf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <img src="https://img.shields.io/badge/a01071397193@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
