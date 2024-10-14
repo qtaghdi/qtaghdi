@@ -1,9 +1,4 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40&desc=qtaghdi" alt="header">
-  <h2>Hello! I am Sangmin Park, a high school developer chasing his dream.</h2>
-  <p style="font-weight: 700;">안녕하세요! 꿈을 쫓는 고등학생 개발자, 박상민입니다.</p>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtaghdi&show_icons=true&theme=light)
   <h2>🧑‍💻 Front-end</h2>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
