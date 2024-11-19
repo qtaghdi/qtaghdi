@@ -1,10 +1,11 @@
-<div align='center'>
-  <h2>🧑‍💻 Front-end</h2>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  
-  <h2>📖 My Portfolio</h2>
-  <a href="https://url.kr/a27oui" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-</div>
+### 👋 hello. I am Sangmin. I am aspiring to become a front-end developer.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtaghdi)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact
+<a href="mailto:a01071397193@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</a>
+<a href="https://qtaghdi.notion.site/Sangmin-s-Portfolio-791323fbe43c45a2bf8597ac5eed82cf" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
+</a>
