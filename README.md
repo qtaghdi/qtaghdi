@@ -1,4 +1,4 @@
-### 👋 hello. I am Sangmin. I am aspiring to become a front-end developer.
+### 👋 hello. I'm Sangmin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtaghdi)](https://github.com/anuraghazra/github-readme-stats)
 
