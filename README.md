@@ -1,6 +1,4 @@
-### 👋 hello. I'm Sangmin
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtaghdi)](https://github.com/anuraghazra/github-readme-stats)
+### 👋 hello. I'm Sangmin I want to be Script Front Developer
 
 ### Contact
 <a href="mailto:a01071397193@gmail.com" target="_blank">
