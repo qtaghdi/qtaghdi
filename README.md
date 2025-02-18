@@ -1,6 +1,12 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{qtaghdi}"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qtaghdi&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/qtaghdi"
+    width="600"
+    height="200"
+  />
 </a>
+  
 
 
 ### 👋 hello. I'm Sangmin I want to be Script Developer
