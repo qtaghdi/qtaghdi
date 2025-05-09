@@ -2,7 +2,7 @@
 
 <h3>I'm working toward becoming a Front-end Developer.</h3>
 
-<h4>📫 Contact Me</h4>
+## 📫 Contact Me
 <p>
   <a href="mailto:qtaghdi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
