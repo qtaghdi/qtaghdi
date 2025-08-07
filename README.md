@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sangmin
+# 👋 Hi, I'm Sangmin
 
 <h3>I'm working toward becoming a Front-end Developer.</h3>
 
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/React Native-00A7D4?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 </p>
 
 ## 📚 Libraries
