@@ -1,40 +1,70 @@
-# 👋 Hi, I'm Sangmin
+<div align="center">
 
-<h3>I'm working toward becoming a Front-end Developer.</h3>
+# 👋 Hi, I'm **Sangmin**
+### Front-end Developer | Building efficient and modern web experiences ⚡
 
-## 📫 Contact Me
-<p>
-  <a href="mailto:qtaghdi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python" height="45"/>
+</p>
+
+### ⚛️ Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,vue" height="45"/>
+</p>
+
+### 🎨 Styling & UI  
+<p align="center">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</p>
+
+### ⚙️ State Management & Data Fetching  
+<p align="center">
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jotai-6E6E6E?style=for-the-badge&logo=jotai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
+</p>
+
+### 🛠️ Tooling & Dev Environment  
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### 🌐 Networking  
+<p align="center">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fetch-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ky-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=qtaghdi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtaghdi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact  
+<p align="center">
+  <a href="mailto:qtaghdi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
-
-## 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-## 🧩 Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/React Native-00A7D4?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-</p>
-
-## 📚 Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
 </p>
