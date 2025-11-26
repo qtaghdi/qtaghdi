@@ -46,30 +46,32 @@
 
 <div align="center">
 
-<img
-height="150em"
-src="https://github-readme-stats-henna-sigma-71.vercel.app/api?username=qtaghdi&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+  <img
+    height="150em"
+    style="display:inline-block;"
+    src="https://github-readme-stats-henna-sigma-71.vercel.app/api?username=qtaghdi&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-<img
-height="150em"
-src="https://github-readme-stats-henna-sigma-71.vercel.app/api/top-langs/?username=qtaghdi&layout=compact&theme=tokyonight&hide_border=true"
-/>
+  <img
+    height="150em"
+    style="display:inline-block;"
+    src="https://github-readme-stats-henna-sigma-71.vercel.app/api/top-langs/?username=qtaghdi&layout=compact&theme=tokyonight&hide_border=true"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=qtaghdi&theme=algolia&no-frame=true&margin-w=10" />
+  <img
+    style="display:inline-block;"
+    src="https://github-profile-trophy.vercel.app/?username=qtaghdi&theme=algolia&no-frame=true&margin-w=10"
+  />
 
-<br/>
+  <br/>
 
-<img src="https://streak-stats.demolab.com?user=qtaghdi&theme=tokyonight&hide_border=true&ring=7FDBFF&fire=AED9FF&currStreakLabel=AED9FF" />
+  <img
+    style="display:inline-block;"
+    src="https://streak-stats.demolab.com?user=qtaghdi&theme=tokyonight&hide_border=true&ring=7FDBFF&fire=AED9FF&currStreakLabel=AED9FF"
+  />
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/qtaghdi/qtaghdi/main/winter-code.gif" width="80%" />
 </div>
 
 <br/>
