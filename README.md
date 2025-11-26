@@ -7,7 +7,7 @@
 <div align="center">
 
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=7FDBFF&center=true&vCenter=true&width=700&lines=Front-end+Developer;Modern+Web+Engineer;Crafting+Winter+Inspired+Interfaces"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=7FDBFF&center=true&vCenter=true&width=700&lines=Front-end+Developer;Modern+Web+Engineer;"
   />
 
   <p style="color:#AED9FF;">Crafting fast, modern & elegant web experiences.</p>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,vue&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,vue&theme=dark" height="45" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,styledcomponents&theme=dark" height="45" />
 <img src="https://skillicons.dev/icons?i=vite,webpack,figma,jquery,nodejs&theme=dark" height="45" />
 
