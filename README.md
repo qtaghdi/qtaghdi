@@ -25,14 +25,7 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue&theme=dark" height="45" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,styledcomponents&theme=dark" height="45" />
-<img src="https://skillicons.dev/icons?i=vite,webpack,figma,jquery,nodejs&theme=dark" height="45" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Zustand-7FDBFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Jotai-AED9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/TanStack_Query-6EC4FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Biome-B3E5FF?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=vite,webpack,figma,jquery&theme=dark" height="45" />
 
 </div>
 
