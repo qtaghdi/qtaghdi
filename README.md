@@ -31,10 +31,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/qtaghdi/qtaghdi/main/winter-line.svg" width="70%" />
-</div>
-
 ## GitHub Activity
 
 <div align="center">
