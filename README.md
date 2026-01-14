@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nest&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,svelte,nest&theme=dark" height="45" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,styledcomponents&theme=dark" height="45" />
 <img src="https://skillicons.dev/icons?i=vite,webpack,figma,jquery&theme=dark" height="45" />
 
