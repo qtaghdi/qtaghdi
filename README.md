@@ -15,7 +15,8 @@
 **Projects**
 
 <a href="https://github.com/Bigtablet/bigtablet-design-system">Design System</a><br/>
-<a href="https://github.com/Bigtablet/bigtablet-homepage-web">Bigtablet</a>
+<a href="https://github.com/Bigtablet/bigtablet-homepage-web">Official Website</a><br/>
+<a href="https://github.com/Bigtablet/bigtablet-frontend-template">Frontend Architecture</a>
 
 </td>
 <td align="center" width="300">
