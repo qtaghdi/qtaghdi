@@ -2,7 +2,7 @@
 
 <br/>
 
-[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLvvhj79z_pU%26list%3DRDLvvhj79z_pU%26start_radio%3D1&theme=stream)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLvvhj79z_pU%26list%3DRDLvvhj79z_pU%26start_radio%3D1&theme=stream)
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLvvhj79z_pU%26list%3DRDLvvhj79z_pU%26start_radio%3D1&theme=stream&variant=blue)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLvvhj79z_pU%26list%3DRDLvvhj79z_pU%26start_radio%3D1&theme=stream&variant=blue)
 
 <br/>
 
