@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLvvhj79z_pU%26list%3DRDLvvhj79z_pU%26start_radio%3D1&theme=stream)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLvvhj79z_pU%26list%3DRDLvvhj79z_pU%26start_radio%3D1&theme=stream)
 
 <br/>
 
