@@ -24,7 +24,7 @@ Frontend Developer
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,react,next,vue,svelte&theme=dark" alt="Tech Stack" height="36" />
+<img src="https://skillicons.dev/icons?i=ts,react,next,vue,svelte&theme=dark" alt="Tech Stack" height="40" />
 
 <br/><br/>
 
