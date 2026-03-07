@@ -32,7 +32,7 @@ Frontend Developer
 
 <br/>
 
-<a href="https://qtaghdi.github.io/portfolio/">Portfolio</a> · <a href="https://velog.io/@qtaghdi/posts">Velog</a> · <a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
+<a href="https://portfolio-sage-nine-97.vercel.app/">Portfolio</a> · <a href="https://velog.io/@qtaghdi/posts">Velog</a> · <a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
 
 <br/><br/>
 
