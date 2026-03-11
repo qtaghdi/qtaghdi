@@ -19,12 +19,13 @@ Frontend Developer
 <td align="center"><a href="https://github.com/Bigtablet/bigtablet-design-system">Design System</a></td>
 <td align="center"><a href="https://github.com/Bigtablet/bigtablet-homepage-web">Official Homepage</a></td>
 <td align="center"><a href="https://github.com/Bigtablet/bigtablet-frontend-template">Frontend Architecture</a></td>
+<td align="center"><a href="https://github.com/qtaghdi/rust-with-typescript">Rust with Typescript</a>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,react,next,vue,svelte&theme=dark" alt="Tech Stack" height="40" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,svelte,astro&theme=dark" alt="Tech Stack" height="40" />
 
 <br/><br/>
 
