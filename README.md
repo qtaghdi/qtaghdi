@@ -27,8 +27,6 @@ Frontend Developer
 
 <a href="https://portfolio-sage-nine-97.vercel.app/">Portfolio</a> · <a href="https://velog.io/@qtaghdi/posts">Velog</a> · <a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=qtaghdi&validcolor=dark&style=for-the-badge)
-
-<br/><br/>
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCA-D8g)](https://www.git-ranker.com)
 
 </div>
