@@ -1,6 +1,6 @@
 <div align="center">
-  
-# Engy Park
+
+# Sangmin Park
 
 Frontend Developer
 
@@ -8,10 +8,29 @@ Frontend Developer
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Bigtablet/bigtablet-design-system">Design System</a></td>
-<td align="center"><a href="https://github.com/Bigtablet/bigtablet-homepage-web">Official Homepage</a></td>
-<td align="center"><a href="https://github.com/Bigtablet/bigtablet-frontend-template">Frontend Architecture</a></td>
-<td align="center"><a href="https://github.com/qtaghdi/rust-with-typescript">Rust with Typescript</a>
+<td align="center">
+<a href="https://github.com/Bigtablet/bigtablet-design-system">
+Reusable UI Components
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Kivra-App/Kivra">
+Error Monitoring Platform
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/qtaghdi/boundra">
+Domain-First Full-Stack Framework
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/qtaghdi/rust-with-typescript">
+Rust for TypeScript Developers
+</a>
+</td>
 </tr>
 </table>
 
@@ -25,7 +44,11 @@ Frontend Developer
 
 <br/>
 
-<a href="https://portfolio-sage-nine-97.vercel.app/">Portfolio</a> · <a href="https://velog.io/@qtaghdi/posts">Velog</a> · <a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
+<a href="https://portfolio-sage-nine-97.vercel.app/">Portfolio</a> ·
+<a href="https://velog.io/@qtaghdi/posts">Velog</a> ·
+<a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
+
+<br/><br/>
 
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCA-D8g)](https://www.git-ranker.com)
 
