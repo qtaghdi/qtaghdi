@@ -1,6 +1,7 @@
 <div align="center">
 
 # Sangmin Park
+Frontend Developer
 
 <br/>
 <br/>
