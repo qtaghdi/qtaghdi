@@ -61,6 +61,6 @@ Rust for TypeScript Developers
 
 <br/><br/>
 
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCA-D8g)](https://www.git-ranker.com)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCA-D8g)](https://www.git-ranker.com/ko/users/qtaghdi)
 
 </div>
