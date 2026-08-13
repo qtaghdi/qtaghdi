@@ -45,12 +45,6 @@ Rust for TypeScript Developers
 
 <br/><br/>
 
-<img
-  src="https://github-readme-stats-henna-sigma-71.vercel.app/api?username=qtaghdi&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=888&icon_color=888&include_all_commits=true"
-  alt="GitHub Stats"
-  height="150"
-/>
-
 <br/>
 
 <a href="https://portfolio-sage-nine-97.vercel.app/">Portfolio</a>
