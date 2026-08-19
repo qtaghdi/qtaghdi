@@ -38,7 +38,7 @@ Rust for TypeScript Developers
 <br/>
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,react,next,vue,svelte,astro&theme=dark"
+  src="https://skillicons.dev/icons?i=js,ts,react,next,svelte&theme=dark"
   alt="Tech Stack"
   height="40"
 />
@@ -52,9 +52,5 @@ Rust for TypeScript Developers
 <a href="https://velog.io/@qtaghdi/posts">Velog</a>
 &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
-
-<br/><br/>
-
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCA-D8g)](https://www.git-ranker.com/ko/users/qtaghdi)
 
 </div>
