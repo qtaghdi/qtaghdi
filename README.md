@@ -14,7 +14,7 @@ Frontend Engineer
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kivra-App/Kivra">
+      <a href="https://github.com/qtaghdi/jabso">
         Error Monitoring Platform
       </a>
     </td>
