@@ -66,7 +66,7 @@ Frontend Engineer
 <br />
 <br />
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=qtaghdi&utm_content=farm">
+<a href="https://www.gitanimals.org/ko-KR?utm_medium=image&utm_source=qtaghdi&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/qtaghdi"
   width="600"
