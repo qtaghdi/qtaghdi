@@ -63,15 +63,4 @@ Frontend Engineer
 &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
 
-<br />
-<br />
-
-<a href="https://www.gitanimals.org/ko-KR?utm_medium=image&utm_source=qtaghdi&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/qtaghdi"
-  width="600"
-  height="300"
-/>
-</a>
-
 </div>
