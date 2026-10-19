@@ -1,66 +1,34 @@
-<div align="center">
+# Sangmin Park
 
-## Sangmin Park
-Frontend Engineer
+Frontend Engineer at [Bigtablet](https://github.com/Bigtablet).
 
-<br />
-<br />
+I build interfaces, shared UI libraries, and tools that make development and community operations easier.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Bigtablet/bigtablet-design-system">
-        Design System
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/qtaghdi/jabso">
-        Error Monitoring Platform
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/qtaghdi/boundra">
-        Domain-First Full-Stack Framework
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/qtaghdi/rust-with-typescript">
-        Rust for TypeScript Developers
-      </a>
-    </td>
-  </tr>
-</table>
+[Portfolio](https://portfolio-sage-nine-97.vercel.app/) · [Velog](https://velog.io/@qtaghdi/posts) · [LinkedIn](https://www.linkedin.com/in/sangminpp)
 
-<br />
+## Selected work
 
-<img
-  src="https://skillicons.dev/icons?i=js,ts,react,next,svelte&theme=dark"
-  alt="JavaScript, TypeScript, React, Next.js, Svelte"
-  height="40"
-/>
+### [Bigtablet Design System](https://github.com/Bigtablet/bigtablet-design-system)
 
-<br />
-<br />
+A UI library for React and Vanilla JavaScript, with shared design tokens, accessibility checks, and package releases.
 
-<table>
-  <tr>
-    <td><b>2025.09 - Present</b></td>
-    <td>Frontend Engineer</td>
-    <td>Bigtablet, Inc.</td>
-  </tr>
-  <tr>
-    <td><b>2023.03 - 2026.02</b></td>
-    <td>Software Development</td>
-    <td>Daegu Software Meister High School</td>
-  </tr>
-</table>
+### [Boundra](https://github.com/qtaghdi/boundra)
 
-<br />
+A developer tool that enforces domain boundaries in TypeScript applications, helping keep dependencies and module responsibilities explicit.
 
-<a href="https://portfolio-sage-nine-97.vercel.app/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://velog.io/@qtaghdi/posts">Velog</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/sangminpp">LinkedIn</a>
+### [OWKR](https://github.com/Overwatch-KR)
 
-</div>
+Tools for an Overwatch community: a web app for roster management and team balancing, a Discord recruitment bot, and an administrator exam website.
+
+## Writing & learning
+
+[Rust for TypeScript Developers](https://github.com/qtaghdi/rust-with-typescript): a Rust learning guide through familiar TypeScript concepts.
+
+## Background
+
+| Period | Role | Organization |
+| --- | --- | --- |
+| 2025.09 - Present | Frontend Engineer | Bigtablet, Inc. |
+| 2023.03 - 2026.02 | Software Development | Daegu Software Meister High School |
+
+**Tools:** TypeScript, JavaScript, React, Next.js, Svelte.
