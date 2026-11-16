@@ -31,6 +31,6 @@ Tools for an Overwatch community: a web app for roster management and team balan
 | Period | Role | Organization |
 | --- | --- | --- |
 | 2025.09 - Present | Frontend Engineer | Bigtablet, Inc. |
-| 2023.03 - 2026.02 | Software Development | Daegu Software Meister High School |
+| 2023.03 - 2026.02 | Student | Daegu Software Meister High School |
 
 **Tools:** TypeScript, JavaScript, React, Next.js, Svelte.
