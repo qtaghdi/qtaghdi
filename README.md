@@ -22,7 +22,7 @@ Tools for an Overwatch community: a web app for roster management and team balan
 
 ## Writing & learning
 
-[![Latest post on Velog](https://velog-readme-stats.vercel.app/api?name=qtaghdi)](https://velog.io/@qtaghdi/posts)
+[![velog](https://velo-card.profilecard.workers.dev/api?name=qtaghdi&layout=thumbnail&theme=github&count=10&hide_follow=true&hide_bio=true&hide_tags=true)](https://velog.io/@qtaghdi)
 
 [Rust for TypeScript Developers](https://github.com/qtaghdi/rust-with-typescript): a Rust learning guide through familiar TypeScript concepts.
 
