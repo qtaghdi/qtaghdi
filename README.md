@@ -1,8 +1,8 @@
 # Sangmin Park
 
-Frontend engineer at [Bigtablet](https://github.com/Bigtablet) and founder of [Oddmash](https://github.com/Oddmash).
+Frontend engineer at [Bigtablet](https://github.com/Bigtablet).
 
-Building web products, design systems, and developer tools.
+Building open-source projects and developer tools at [Oddmash](https://github.com/Oddmash).
 
 [Portfolio](https://park-sangmin.vercel.app/) · [Velog](https://velog.io/@qtaghdi/posts) · [LinkedIn](https://www.linkedin.com/in/sangminpp)
 
